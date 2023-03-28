@@ -51,3 +51,61 @@ if temp > contador:
 print(contador)
 
 
+
+# pivote =0
+# lista=[]
+# n=0
+# listaMenor=[]
+# listMayor=[]
+#
+# for line in range(n):
+#     inputText = input()
+#     if len(inputText) == n:
+#         lista.append(inputText)
+#
+#
+# for path in list:
+#     for character in path:
+#         for position in range(len(path)):
+#             length = len(path) - 1
+#             character = path[length - position]
+#         def separacion (n):
+#             if list.index(character) >= pivote:
+#                 return listaMenor.append(character)
+#             else:
+#                 return separacion(position+1)
+#
+#
+# print(listaMenor+listMayor)
+#
+# numero = input()
+#
+# for i in range (n) :
+#     if i % (n+1) == 0:
+#         print(n)
+#
+#
+#
+# pivote =0
+# lista=[]
+# n=0
+# listaMenor=[]
+# listaMayor=[]
+#
+# pivote = lista[len(lista) % 2]
+# def orden (lista):
+#     for x in lista:
+#             if x <= pivote:
+#                 listaMenor.append(x)
+#             else:
+#                 listaMayor.append(x)
+#     return orden(x+1)
+
+
+
+
+
+
+
+
+
